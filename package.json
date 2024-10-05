@@ -2,7 +2,7 @@
   "name": "vidly-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Sonudhukia143.github.io/Vidly-Movie-React",
+  "homepage": "https://Sonudhukia143.github.io/Vidly-Movie-React",
   "type": "module",
   "scripts": {
     "dev": "vite",
